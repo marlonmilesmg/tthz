@@ -1,0 +1,34 @@
+#00a1e5 Light Blue
+#353594 Dark Blue Purple
+#ee392a Dark Orange Red
+#f8991d Light Yellow Orange
+#cdedfb Sky Blue Cloud
+
+#311E25
+
+#0d47a1 dark blue
+
+#3B2930
+
+#b71c1c red indeed
+
+#DB9A64 orange
+
+A[Christmas] -->|Get money| B(Go shopping)
+  B --> C{Let me think}
+  C -->|One| D[Marlon]
+  C -->|Two| E[iPhone]
+  C -->|Three| F[fa:fa-car Car]
+  
+  graph TD
+  start((Start))
+  -->pending[Pending<br>Order: Open <br>Invoice: X <br> Delivery: X]
+  pending-->processing[Processing<br>Order: Closed <br>Invoice: Open<br> Delivery: X] --> cancelled
+  processing-->completed[Completed<br>Order: Closed<br> Invoice: Closed<br> Delivery: Closed]-->finish((End))
+  pending-->cancelled[Cancelled<br>Order: Cancelled <br>Invoice: Cancelled<br> Delivery: X]
+  cancelled-->finish((End))
+  
+  
+
+  
+		
