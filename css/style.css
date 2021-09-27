@@ -1368,7 +1368,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/back.jpg);
+  background-image: url(../img/banner/joina.png);
 }
 
 /* line 4, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_slider.scss */
@@ -2027,7 +2027,7 @@ h3 {
   background-repeat: no-repeat;
   position: relative;
   padding: 106px 0 120px 0;
-  background: #9c750e;
+  background: #90a4ae;
   overflow: hidden;
 }
 
@@ -2431,7 +2431,7 @@ h3 {
 @media (max-width: 767px) {
   /* line 1, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_download.scss */
   .download_area {
-    padding: 90px 0;
+    padding: 10px 0;
   }
 }
 
@@ -2970,8 +2970,8 @@ h3 {
 
 /* line 1, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_service.scss */
 .service_area {
-  background: #9c750e;
-  padding-bottom: 90px;
+  background: #607d8b;
+  padding-bottom: 10px;
   padding-top: 120px;
 }
 
