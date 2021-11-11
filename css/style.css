@@ -675,7 +675,7 @@ h3 {
 /* line 24, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_section_title.scss */
 .section_title p {
   font-size: 20px;
-  color: #F91842;
+  color: #a98425;
   margin-bottom: 0;
   font-weight: 400;
   font-family: "Roboto", sans-serif;
@@ -1484,7 +1484,7 @@ h3 {
 .slider_area .single_slider .slider_text p {
   font-size: 30px;
   font-weight: 400;
-  color: #F91842;
+  color: #a98425;
   font-family: "Roboto", sans-serif;
   margin-bottom: 24px;
 }
@@ -1741,7 +1741,7 @@ h3 {
 
 /* line 9, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_counter.scss */
 .counter_area .single_counter h3 {
-  color: #F91842;
+  color: #a98425;
   font-weight: 400;
   font-size: 70px;
   margin-bottom: 0;
@@ -1978,7 +1978,7 @@ h3 {
 
 /* line 41, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_team.scss */
 .team_area .single_team .team_thumb .social_link li a:hover {
-  color: #F91842;
+  color: #a98425;
 }
 
 /* line 49, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_team.scss */
@@ -5138,7 +5138,7 @@ h6 {
   left: 10px;
   display: block;
   color: #fff;
-  background-color: #F91842;
+  background-color: #a98425;
   padding: 8px 15px;
   border-radius: 5px;
 }
